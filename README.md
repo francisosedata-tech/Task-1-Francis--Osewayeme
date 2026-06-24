@@ -27,7 +27,7 @@ This project involves end-to-end analysis of an e-commerce orders dataset. I cle
 - Top products and customer behavior identified
 
 ## How to Explore This Project
-1. Check the sql-queries.sql file for all analysis queries
+1. Check the sql_queries.sql file for all analysis queries
 2. Open the Power BI file in powerBI visual.pbix folder
 3. View screenshots through the .png files to see the complete workflow
 
@@ -41,4 +41,4 @@ This project involves end-to-end analysis of an e-commerce orders dataset. I cle
 *Made with ❤️ by Francis Blessing Osewayeme*  
 Data Analyst | [@DataAnalystOse](https://x.com/DataAnalystOse)
 
-## Repository Structure
+
