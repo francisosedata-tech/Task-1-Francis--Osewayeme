@@ -26,4 +26,19 @@ This project involves end-to-end analysis of an e-commerce orders dataset. I cle
 - Significant cart abandonment and order cancellation rates observed
 - Top products and customer behavior identified
 
+## How to Explore This Project
+1. Check the sql/queries.sql file for all analysis queries
+2. Open the Power BI file in power_bi/ folder
+3. View screenshots to see the complete workflow
+
+## Future Enhancements
+- Customer segmentation analysis
+- Sales forecasting
+- Automated reporting
+
+---
+
+*Made with ❤️ by Francis Blessing Osewayeme*  
+Aspiring Data Analyst | [@DataAnalystOse](https://x.com/DataAnalystOse)
+
 ## Repository Structure
