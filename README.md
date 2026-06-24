@@ -4,7 +4,7 @@
 *Analyst:* Francis Blessing Osewayeme  
 *Date:* June 2026
 
-![Final Dashboard](screenshots/final_dashboard.png)
+![Final Dashboard](PowerBI Visual.png)
 
 ## Project Overview
 This project involves end-to-end analysis of an e-commerce orders dataset. I cleaned the data, performed exploratory analysis using SQL, and built an interactive dashboard with Power BI.
