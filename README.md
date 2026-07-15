@@ -28,7 +28,7 @@ This project involves end-to-end analysis of an e-commerce orders dataset. I cle
 
 ## How to Explore This Project
 1. Check the sql_queries.sql file for all analysis queries
-2. Open the Power BI file in powerBI visual.pbix folder
+2. Open the Power BI file in powerBI visual.pbix folder[view](https://github.com/francisosedata-tech/Decodelab-IT-project/blob/984400f86e3f1340b640ada7d94e945628ea0cce/PoweBI%20visual.pbix)
 3. View screenshots through the .png files to see the complete workflow
 
 ## Future Enhancements
